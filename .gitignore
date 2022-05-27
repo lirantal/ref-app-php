@@ -1,0 +1,4 @@
+# Ignore Snyk's IDE config file
+.dccache
+
+vendor/
